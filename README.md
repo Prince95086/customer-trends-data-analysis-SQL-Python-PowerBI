@@ -16,6 +16,7 @@ This project analyzes a retail customer shopping dataset containing approximatel
 ---
 <img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/86926c9d-7106-46fd-8a18-93be19c27cf7" />
 
+<img width="913" height="497" alt="image" src="https://github.com/user-attachments/assets/5f115427-b479-48d2-96c4-c2771adc366c" />
 
 ## 🚀 Features
 
